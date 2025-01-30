@@ -3,7 +3,7 @@ let numeroLimite = 100;
 let numeroSecreto = gerarnumeroAleatorio();
 let tentativas = 1;
 
-
+//teste commit com git
 function exibirTextoNaTela(tag, texto){
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
